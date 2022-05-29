@@ -1,0 +1,11 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 7A71-4AB9
+
+ Directory of C:\Users\minak\Desktop\MyProject
+
+29/05/2022  11:30 PM    <DIR>          .
+29/05/2022  11:24 PM    <DIR>          ..
+29/05/2022  11:29 PM    <DIR>          .git
+29/05/2022  11:30 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  399,807,459,328 bytes free
